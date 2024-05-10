@@ -14,14 +14,14 @@
 
 ■Microsoft Learnにおける本コースのラーニングパス
 
-- [コース AI-050T00: Azure OpenAI Service を使用して生成 AI ソリューションを開発する](https://learn.microsoft.com/ja-jp/training/courses/ai-050t00)
+- [Azure OpenAI Service を使用して生成 AI ソリューションを開発する](https://learn.microsoft.com/ja-jp/training/paths/develop-ai-solutions-azure-openai/)
 
 ■MicrosoftのAIに関連する資格試験
 
-※2024/3現在はAI-050に関する試験および資格は存在していません
+※2024/5現在はAI-050に関する試験および資格は存在していません
 
-- [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-900/)
-- [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-102/)
+- [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-fundamentals/)
+- [Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/)
 
 ### Module01
 
@@ -112,16 +112,10 @@
 >
 > ラボを実施する場合は以下の点に注意が必要です
 >
-> 1.ラボを実施するためにはサブスクリプションおよびアクセス許可申請が必要です（2024/2現在）
+> 1.ラボを実施するためにはサブスクリプションおよびアクセス許可申請が必要です（2024/5現在）
 >
 > 2.プレビュー機能を含むため機能・画面の変更や実行結果が期待された内容と異なる場合があります
 
-* [01: Azure OpenAI Service で作業を開始する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/01-get-started-azure-openai.md)
-* [02: Azure OpenAI をアプリに統合する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/02-natural-language-azure-openai.md)
-* [03: アプリでプロンプト エンジニアリングを利用する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/03-prompt-engineering.md)
-* [04: Azure OpenAI Service を使用してコードを生成して改善する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/04-code-generation.md)
-* [05: DALL-E モデルを使用して画像を生成する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/05-generate-images.md)
-* [06: Azure OpenAI で独自のデータを使用する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/06-use-own-data.md)
 * [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground)
 * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) ※チャットアプリ作成サンプル
 * [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples/tree/main) ※リファレンスアーキテクチャサンプル
