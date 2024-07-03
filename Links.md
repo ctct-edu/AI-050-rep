@@ -56,7 +56,7 @@
 - [Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 - [AI事業者ガイドライン検討会](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/index.html) ※経済産業省サイト
 
-### Moduel02
+### Module02
 
 [Module02: Azure OpenAI Service で作業を開始する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/get-started-openai/)
 
