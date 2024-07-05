@@ -129,4 +129,4 @@
 - [Azure OpenAI Service の一般提供開始 大規模かつ高度な AI モデルへのアクセスを拡大し、企業に付加価値を提供](https://news.microsoft.com/ja-jp/2023/01/23/230123-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
 - [マイクロソフト、国内の AI 及びクラウド基盤増強に 4,400 億円を投資 リスキリング、研究拠点の新設、サイバーセキュリティ連携で日本経済に貢献](https://news.microsoft.com/ja-jp/2024/04/10/240410-microsoft-to-invest-us2-9-billion-in-ai-and-cloud-infrastructure-in-japan-while-boosting-the-nations-skills-research-and-cybersecurity/)
 - [GPT-4o の発表: OpenAI の新しい最上位マルチモーダル モデルが Azure 上でプレビュー開始](https://news.microsoft.com/ja-jp/2024/05/14/240514-introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/)
-- [People cannot distinguish GPT-4 from a human in a Turing test](https://arxiv.org/abs/2405.08007)
+- [People cannot distinguish GPT-4 from a human in a Turing test](https://arxiv.org/abs/2405.08007) ※arxiv上の論文
