@@ -18,7 +18,7 @@
 
 ■MicrosoftのAIに関連する資格試験
 
-※2024/5現在はAI-050に関する試験および資格は存在していません
+※2024/7現在はAI-050に関する試験および資格は存在していません
 
 - [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-fundamentals/)
 - [Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/)
@@ -121,3 +121,12 @@
 * [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground)
 * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) ※チャットアプリ作成サンプル
 * [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples/tree/main) ※リファレンスアーキテクチャサンプル
+
+## ニュース&Tips
+
+- [OpenAI、マイクロソフトと コンピューティングパートナーシップを締結 新しい Azure AI スーパーコンピューティング技術の構築へ](https://news.microsoft.com/ja-jp/2019/07/25/190725-openai-forms-exclusive-computing-partnership-with-microsoft-to-build-new-azure-ai-supercomputing-technologies/)
+- [マイクロソフトと OpenAI がパートナーシップを拡大](https://news.microsoft.com/ja-jp/2023/01/25/230125-microsoftandopenaiextendpartnership/)
+- [Azure OpenAI Service の一般提供開始 大規模かつ高度な AI モデルへのアクセスを拡大し、企業に付加価値を提供](https://news.microsoft.com/ja-jp/2023/01/23/230123-general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
+- [マイクロソフト、国内の AI 及びクラウド基盤増強に 4,400 億円を投資 リスキリング、研究拠点の新設、サイバーセキュリティ連携で日本経済に貢献](https://news.microsoft.com/ja-jp/2024/04/10/240410-microsoft-to-invest-us2-9-billion-in-ai-and-cloud-infrastructure-in-japan-while-boosting-the-nations-skills-research-and-cybersecurity/)
+- [GPT-4o の発表: OpenAI の新しい最上位マルチモーダル モデルが Azure 上でプレビュー開始](https://news.microsoft.com/ja-jp/2024/05/14/240514-introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/)
+- [People cannot distinguish GPT-4 from a human in a Turing test](https://arxiv.org/abs/2405.08007)
