@@ -18,7 +18,7 @@
 
 ■MicrosoftのAIに関連する資格試験
 
-※2024/7現在はAI-050に関する試験および資格は存在していません
+※2024/8現在はAI-050に関する試験および資格は存在していません
 
 - [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-fundamentals/)
 - [Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/)
@@ -52,7 +52,7 @@
 
 - [Azure AI サービスにおける AI の責任ある使用](https://learn.microsoft.com/ja-jp/azure/ai-services/responsible-use-of-ai-overview)
 - [責任ある信頼された AI](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
-- [Code of conduct for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
+- [Microsoft Generative AI Services Code of Conduct](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
 - [Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 - [AI事業者ガイドライン検討会](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/index.html) ※経済産業省サイト
 
@@ -63,7 +63,7 @@
 ■Azure OpenAI Serviceの使用に際して
 
 - [Limited access to Azure OpenAI Service](https://learn.microsoft.com/ja-jp/legal/cognitive-services/openai/limited-access)
-- [Request Access to Azure OpenAI Service](https://aka.ms/oai/access)
+- ~~[Request Access to Azure OpenAI Service](https://aka.ms/oai/access)~~ ※限定アクセスは解除されました
 
 ■Azure OpenAI Studio
 
