@@ -126,7 +126,7 @@
 >
 > 2.プレビュー機能を含むため機能・画面の変更や実行結果が期待された内容と異なる場合があります
 
-* [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground)
+* [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Ctypescript%2Cpython-new&pivots=programming-language-studio)
 * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) ※チャットアプリ作成サンプル
 * [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples/tree/main) ※リファレンスアーキテクチャサンプル
 
