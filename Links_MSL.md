@@ -91,8 +91,6 @@
 - [プロンプト エンジニアリングの概要](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/prompt-engineering)
 - [プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 - [画像プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/gpt-4-v-prompt-engineering)
-- [コンテンツのフィルター処理](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
-- [Azure AI Content Safety とは?](https://learn.microsoft.com/ja-jp/azure/ai-services/content-safety/overview)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp) ※非MS公式サイト
 - [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) ※OpenAI社サイト
 
@@ -113,6 +111,8 @@
 - [責任ある信頼された AI](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
 - [Microsoft Generative AI Services Code of Conduct](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
 - [Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
+- [コンテンツのフィルター処理](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
+- [Azure AI Content Safety とは?](https://learn.microsoft.com/ja-jp/azure/ai-services/content-safety/overview)
 - [AI事業者ガイドライン検討会](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/index.html) ※経済産業省サイト
 
 
