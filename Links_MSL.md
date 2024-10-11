@@ -88,8 +88,7 @@
 
 [Azure OpenAI Service を使用してプロンプト エンジニアリングを適用する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/apply-prompt-engineering-azure-openai/)
 
-- [プロンプト エンジニアリングの概要](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/prompt-engineering)
-- [プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
+- [プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/prompt-engineering?tabs=chat)
 - [画像プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/gpt-4-v-prompt-engineering)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp) ※非MS公式サイト
 - [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) ※OpenAI社サイト
