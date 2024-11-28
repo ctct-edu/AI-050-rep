@@ -24,9 +24,17 @@
 
   ※AI-050の内容は、AI-102の試験に包含されています
 
-### Module01 - Azure OpenAI Service の基礎
+### Azure OpenAI Service とは
 
-[Azure OpenAI Service の基礎 | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/explore-azure-openai/)
+~~[Azure OpenAI Service の基礎 | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/explore-azure-openai/)~~
+
+※上記ページは廃止されました（2024/11現在は別ページへリダイレクトされます）
+
+■生成AIの基礎
+
+- [生成 AI とは](https://learn.microsoft.com/ja-jp/training/modules/fundamentals-generative-ai/2-what-is-generative-ai)
+- [大規模言語モデルとは?](https://learn.microsoft.com/ja-jp/training/modules/fundamentals-generative-ai/3-language%20models)
+- [言語モデルを使用する](https://learn.microsoft.com/ja-jp/training/modules/fundamentals-generative-ai/4-azure-openai)
 
 ■AI全般に関する内容
 
@@ -49,7 +57,7 @@
 - [Azure OpenAI Service に関してよく寄せられる質問](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/faq)
 - [Tokenizer](https://platform.openai.com/tokenizer) ※OpenAI社サイト
 
-### Module02 - Azure OpenAI Service で作業を開始する
+### Azure OpenAI Service で作業を開始する
 
 [Azure OpenAI Service で作業を開始する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/get-started-openai/)
 
@@ -66,7 +74,7 @@
 - [Azure OpenAI Service のクォータを管理する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/quota)
 - [Azure OpenAI でブロックリストを使用する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/use-blocklists)
 
-### Module03 - Azure OpenAI Service を使用して自然言語ソリューションを構築する
+### Azure OpenAI Service を使用して自然言語ソリューションを構築する
 
 [Azure OpenAI Service を使用して自然言語ソリューションを構築する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/build-language-solution-azure-openai/)
 
@@ -84,7 +92,7 @@
 
 - [Build Intelligent Applications using ChatGPT & Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/chatgpt-azure-cosmos-db/)
 
-### Module04 - Azure OpenAI Service を使用してプロンプト エンジニアリングを適用する
+### Azure OpenAI Service を使用してプロンプト エンジニアリングを適用する
 
 [Azure OpenAI Service を使用してプロンプト エンジニアリングを適用する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/apply-prompt-engineering-azure-openai/)
 
@@ -93,7 +101,7 @@
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp) ※非MS公式サイト
 - [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) ※OpenAI社サイト
 
-### Module05 - Azure OpenAI Service を使用して検索拡張生成 (RAG) を実装する
+### Azure OpenAI Service を使用して検索拡張生成 (RAG) を実装する
 
 [Azure OpenAI Service を使用して検索拡張生成 (RAG) を実装する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/use-own-data-azure-openai/)
 
@@ -102,7 +110,7 @@
 - [Azure AI Search での取得拡張生成 (RAG)](https://learn.microsoft.com/ja-jp/azure/search/retrieval-augmented-generation-overview)
 - [データに対して Azure OpenAI を安全に使用する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/use-your-data-securely)
 
-### Module 06 - 責任ある生成 AI の基礎
+### 責任ある生成 AI の基礎
 
 [責任ある生成 AI の基礎](https://learn.microsoft.com/ja-jp/training/modules/responsible-generative-ai/)
 
